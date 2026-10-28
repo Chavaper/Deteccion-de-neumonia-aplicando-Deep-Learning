@@ -8,8 +8,15 @@ Este trabajo aborda la detección de neumonía aplicando Deep Learning. Para ell
 - Más info sobre la app web: https://github.com/Chavaper/detector-de-neumonia
 
 <br>
+
 La referencia principal de este trabajo es el paper [**MedMNIST v2 - A large-scale lightweight benchmark for 2D and 3D biomedical image classification**](https://pmc.ncbi.nlm.nih.gov/articles/PMC9852451/)
 
 
+## Arquitecturas empleadas
+
+Las arquitecturas que soportan a cada modelo utilizado se explica con mayor detalle en [teardown.md](https://github.com/Chavaper/Deteccion-de-neumonia-aplicando-Deep-Learning/blob/main/notebook/teardown.md)
 
 
+## Cambios que pueden proponerse
+
+adsf
